@@ -1,0 +1,1 @@
+Nota: Os exercícios contidos nesta pasta tinham como objetivo treinar a implementação do modelo em si. Portanto, a etapa de pré-processamento não necessariamente foi realizada da melhor forma possível, como, por exemplo, o pré-processamento ter sido feito antes da divisão entre treino e teste, o que poderia resultar em data leakage.
